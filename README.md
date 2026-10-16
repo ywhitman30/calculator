@@ -2,6 +2,9 @@
 
 A sleek, responsive web calculator built with HTML, CSS, and vanilla JavaScript. This project is heavily inspired by the aesthetic and functionality of the **Apple Calculator app**, featuring a clean dark-mode interface, glowing button variants, and an interactive panel that lets you switch between a basic and an advanced scientific layout.
 
+
+**Visit the live site at <https://ywhitman30.github.io/calculator>**
+
 ## Features
 
 - **Apple-Inspired Design:** Clean dark-mode background, rounded button typography, and recognizable color coding (iconic orange for basic operators, gray for numbers, and deep slate for advanced options).
